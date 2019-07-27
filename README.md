@@ -1,7 +1,7 @@
 ### WES: Whole-exome sequencing to identify novel drive mutation for human cancers
 
 #### Update
-* 07/28/2019, [GATK-4.1.2.0](https://software.broadinstitute.org/gatk/download/) enter into the pipeline in 
+* 07/28/2019, [GATK-4.1.2.0](https://software.broadinstitute.org/gatk/download/) enter into the pipeline in BIRC10-LC and CHG1
 * 07/27/2019, [MutationalPatterns](https://bioconductor.org/packages/release/bioc/html/MutationalPatterns.html) enter into the pipeline in BIRC10-LC and CHG1
 * 07/26/2019, [sequenza](https://cran.r-project.org/web/packages/sequenza/index.html) enter into the pipeline in BIRC10-LC and CHG1
 * 01/12/2019, [maftools](https://bioconductor.org/packages/release/bioc/html/maftools.html) enter into the pipeline in BIRC10-LC and CHG1
