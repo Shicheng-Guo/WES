@@ -6,6 +6,7 @@
 
 
 
+Method
 
 We detected somatic SVs from WGS using CREST23, and performed integrative SV/CNA detection using CONSERTING24 to identify subclonal or complex SVs linked to CNAs. For comparison purposes, we also performed CNA analysis on WES using the Sequenza algorithm
 
