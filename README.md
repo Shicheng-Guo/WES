@@ -1,9 +1,5 @@
 # WES
 
 
-* 07/27/2019, MutationalPatterns enter into the pipeline in BIRC10-LC
-```
-BiocManager::install("MutationalPatterns")
-library("MutationalPatterns")
-```
+* 07/27/2019, [MutationalPatterns](https://bioconductor.org/packages/release/bioc/html/MutationalPatterns.html) enter into the pipeline in BIRC10-LC
 
