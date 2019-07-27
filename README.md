@@ -5,6 +5,6 @@
 * 07/26/2019, [sequenza](https://cran.r-project.org/web/packages/sequenza/index.html) enter into the pipeline in BIRC10-LC and CHG1
 
 #### Method
-We detected somatic SVs from WGS using CREST23, and performed integrative SV/CNA detection using CONSERTING24 to identify subclonal or complex SVs linked to CNAs. For comparison purposes, we also performed CNA analysis on WES using the Sequenza algorithm
+We detected somatic SVs from WGS using [CREST](https://www.ncbi.nlm.nih.gov/pubmed/21666668), and performed integrative SV/CNA detection using [CONSERTING](https://www.nature.com/articles/nmeth.3394) to identify subclonal or complex SVs linked to CNAs. For comparison purposes, we also performed CNA analysis on WES using the [Sequenza algorithm](https://www.ncbi.nlm.nih.gov/pubmed/25319062)
 
 
